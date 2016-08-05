@@ -1,4 +1,3 @@
-layout_spectrum: 0.10631529265083373
 typography_spectrum: 0.8921686781104654
 color:
   brandStrength: 0.7847013706341386
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.10631529265083373
 name: Tourzy Trails
 title: Tourzy Trail Designer
+description: Increase Tourism in YOUR Town!
